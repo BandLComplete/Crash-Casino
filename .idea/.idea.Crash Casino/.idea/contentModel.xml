@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\borov\AppData\local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\borov\AppData\local\JetBrains\Rider2020.2\resharper-host\local\Transient\Rider\v202\SolutionCaches\_Crash Casino.-1123291496.00" t="ExcludeRecursive" />
+    <e p="C:\Users\borov\Desktop\practice\Crash Casino" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BackToMenu.cs" t="Include" />
+          <e p="ChangeBetButton.cs" t="Include" />
+          <e p="ConnectionString.cs" t="Include" />
+          <e p="Distributions.cs" t="Include" />
+          <e p="FireGraphic.cs" t="Include" />
+          <e p="FireGraphicPoint.cs" t="Include" />
+          <e p="Graphic.cs" t="Include" />
+          <e p="GraphicPoint.cs" t="Include" />
+          <e p="LevelButton.cs" t="Include" />
+          <e p="Marks.cs" t="Include" />
+          <e p="Multiplier.cs" t="Include" />
+          <e p="MultiplierCalculator.cs" t="Include" />
+          <e p="NumberText.cs" t="Include" />
+          <e p="Profile.cs" t="Include" />
+          <e p="RollButton.cs" t="Include" />
+          <e p="Slot.cs" t="Include" />
+          <e p="Spot.cs" t="Include" />
+          <e p="Statistic.cs" t="Include" />
+          <e p="Symbol.cs" t="Include" />
+          <e p="SymbolInfo.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
+          <e p="WaterGraphic.cs" t="Include" />
+          <e p="WaterGraphicPoint.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="AlphaCutoffUnlit.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Crash Casino.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
